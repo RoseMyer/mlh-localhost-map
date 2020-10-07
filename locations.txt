@@ -1,10 +1,4 @@
 New York City, USA
-
-
-
-
-
-
 Punjab, India
 
 Georgetown, Guyana 
@@ -17,6 +11,7 @@ Queens
 
 Dhaka, Bangladesh.
 New York City, USA
+
 Georgetown, Guyana 
 Bronx, USA
 New York City, USA
@@ -52,3 +47,4 @@ Astoria, USA
 Tianjin, CHINA
 Ouagadougou, Burkina Faso
 Almaty, Kazakhstan
+Dhaka, Bangladesh 
